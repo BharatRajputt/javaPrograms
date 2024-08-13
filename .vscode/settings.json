@@ -1,0 +1,11 @@
+{
+    "maven.terminal.useJavaHome": true,
+    "java.format.comments.enabled": false,
+    "notebook.find.scope": {
+
+        "markupSource": true,
+        "markupPreview": true,
+        "codeSource": true,
+        "codeOutput": true
+    }
+}
